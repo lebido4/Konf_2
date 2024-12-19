@@ -1,0 +1,5 @@
+visualizer_path = "./main.py"  # Путь к вашей программе для визуализации графов
+package_name = "curl"                 # Имя пакета для анализа зависимостей
+result_path = "./output.puml"         # Путь для сохранения результата (PlantUML код)
+max_depth = 3                         # Максимальная глубина анализа зависимостей
+repository_url = "http://archive.ubuntu.com/ubuntu"  # URL репозитория Ubuntu
