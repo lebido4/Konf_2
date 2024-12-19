@@ -70,6 +70,7 @@ repository_url = "http://archive.ubuntu.com/ubuntu"  # URL репозитори�
    ```bash
    python3 -m unittest test_dependency_graph_visualizer.py
    ```
+![](src/result.png)
 
 2. Результаты тестирования будут отображены в консоли.
 
